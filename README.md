@@ -1,1 +1,2 @@
 # carbonemission
+This project was created during the AICTE Virtual Internship Program with the goal of understanding and predicting carbon dioxide (CO₂) emissions across different countries. We explored how factors like population size, energy consumption, economic activity, and land usage influence emissions. Using real-world data and machine learning techniques, we built a model that can forecast future CO₂ levels. The project not only helped us improve our technical skills but also deepened our understanding of the environmental challenges related to climate change.
